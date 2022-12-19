@@ -1,0 +1,9 @@
+[package]
+name = "brick_game"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy = "0.9"
+bevy_prototype_lyon = "0.7.2"
+bevy_rapier2d = "*"
